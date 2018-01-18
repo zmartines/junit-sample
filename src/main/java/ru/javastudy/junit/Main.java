@@ -9,7 +9,7 @@ import org.junit.runner.notification.Failure;
  */
 public class Main {
 
-    public static void main(String[] аrgs) throws Throwable {
+    public static void main(String[] ar) throws Throwable {
 
     }
 }

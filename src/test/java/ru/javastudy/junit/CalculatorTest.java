@@ -65,6 +65,7 @@ public class CalculatorTest {
         System.out.println("will not print it");
     }
 
+    @Ignore("Message for ignored test")
     @Test(timeout = 500)
     public void timeStampTest() {
         System.out.println("timeStampTest()");
