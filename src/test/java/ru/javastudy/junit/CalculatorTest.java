@@ -39,7 +39,7 @@ public class CalculatorTest {
     @Test
     public void testGetSum() throws Exception {
         System.out.println("testGetSum()");
-        assertEquals(15, calculator.getSum(7,8));
+        assertEquals(15, calculator.getMultiple(7,8));
     }
 
     @Test

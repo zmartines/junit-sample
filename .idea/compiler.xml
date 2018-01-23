@@ -12,7 +12,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="Junit Hello World" target="1.5" />
-      <module name="Part1" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
